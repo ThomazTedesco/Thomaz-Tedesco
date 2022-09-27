@@ -1,6 +1,6 @@
 Oiee! Eu sou o Thomaz Tedesco
 
-📚 Estou efetuando Faculdade (Análise e Desenvolvimento de Sistemas)
+📚 Estou exercendo Faculdade (Análise e Desenvolvimento de Sistemas)
 
 💻 Estudando Javascript e HTML
 
